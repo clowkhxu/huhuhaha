@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.000,
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4fb5c2f66b175189e48c9cbf7c73b40f~tplv-tiktokx-origin.image?dr=14575&refresh_token=8eb341df&x-expires=1774087200&x-signature=CD%2BMar9EO1fbSu40oXiGRCvgob4%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/372503b290c86b20284a9c498f31722a~tplv-tiktokx-origin.image?dr=14575&refresh_token=5e81015a&x-expires=1774087200&x-signature=c97eFIoMZzefhStT9eJbqL2uxKs%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/19d4dd0c7f1f837e590125474c5540d9~tplv-tiktokx-origin.image?dr=14575&refresh_token=7f85dd70&x-expires=1774087200&x-signature=hLspouoaVeAsxp1XzAREkSB8MJU%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a0be7eb13801b1e1980e2e15679e362f~tplv-tiktokx-origin.image?dr=14575&refresh_token=579723b8&x-expires=1774087200&x-signature=IcJng%2FmJR5qYrxZ%2BxHNgnOO5Ozw%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/47f76b045f7fc66549b6f61a1fe91510~tplv-tiktokx-origin.image?dr=14575&refresh_token=f411b75d&x-expires=1774087200&x-signature=uBUOHmA9%2FHRq%2FRmXDP%2BrupSwu2g%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7b7f5e61aa94ff568a14ef70fd01aaac~tplv-tiktokx-origin.image?dr=14575&refresh_token=0270f218&x-expires=1774087200&x-signature=k8lXg2o%2BibI8g8tnE7ZG9lDp1bg%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-ENDLIST
