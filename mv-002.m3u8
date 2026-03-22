@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.000,
+#EXT-X-PARTS-COUNT:4
+#EXT-X-PART:https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6d5acf1acdc45c07bc0a49d6d4ca9697~tplv-tiktokx-origin.image?dr=14575&refresh_token=efd458af&x-expires=1774184400&x-signature=SqvmrF2t0SJdXcMg50qjRaSxdlE%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-PART:https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/f74e92f14fac3cfc1156fba12331f189~tplv-tiktokx-origin.image?dr=14575&refresh_token=8d24c6fa&x-expires=1774184400&x-signature=DDo%2BLRsx6kgymR4hh9nPk52brls%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-PART:https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/73125de92317e766b6f3faa685223990~tplv-tiktokx-origin.image?dr=14575&refresh_token=dc67b4e5&x-expires=1774184400&x-signature=MJGRSZQLvMZKg8YU8qvFsMK0p2Q%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-PART:https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/71295a95c2284951d3eabc9f8b132fd8~tplv-tiktokx-origin.image?dr=14575&refresh_token=949d15d2&x-expires=1774184400&x-signature=0yJKf2VwzYR%2BT4wBZ3Qxviv5%2Bog%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6d5acf1acdc45c07bc0a49d6d4ca9697~tplv-tiktokx-origin.image?dr=14575&refresh_token=efd458af&x-expires=1774184400&x-signature=SqvmrF2t0SJdXcMg50qjRaSxdlE%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXTINF:2.000,
+#EXT-X-PARTS-COUNT:2
+#EXT-X-PART:https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a22a4a262b6b24dd6be36f7d07c45cc4~tplv-tiktokx-origin.image?dr=14575&refresh_token=785600de&x-expires=1774184400&x-signature=owU9GLNG8Ok5a1Qb0uU%2BAqWB9kw%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-PART:https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4b24e55b84adfa663def8cd975c933c3~tplv-tiktokx-origin.image?dr=14575&refresh_token=7809ec73&x-expires=1774184400&x-signature=7Ug1r14IWcNClItMut9EZMC6cto%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a22a4a262b6b24dd6be36f7d07c45cc4~tplv-tiktokx-origin.image?dr=14575&refresh_token=785600de&x-expires=1774184400&x-signature=owU9GLNG8Ok5a1Qb0uU%2BAqWB9kw%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=my2
+#EXT-X-ENDLIST
