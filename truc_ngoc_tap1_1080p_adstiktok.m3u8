@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 
 # Vietnamese
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc/Ep1/sub_vie.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",LANGUAGE="vi",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc/Ep1/sub_vie.vtt"
 
 # English
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc/Ep1/sub_eng.vtt"
