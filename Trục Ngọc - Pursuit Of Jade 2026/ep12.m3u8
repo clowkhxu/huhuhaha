@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_vie.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Anh",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_eng.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Trung",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_chi.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Hàn",LANGUAGE="kr",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_kor.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Nhật",LANGUAGE="jp",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_jpn.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Thái",LANGUAGE="th",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/ep12_tha_vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_vie.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Anh",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_eng.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Trung",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_chi.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Hàn",LANGUAGE="kr",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_kor.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Nhật",LANGUAGE="jp",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_jpn.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Thái",LANGUAGE="th",DEFAULT=NO,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/clowkhxu/huhuhaha/refs/heads/main/Tr%E1%BB%A5c%20Ng%E1%BB%8Dc%20-%20Pursuit%20Of%20Jade%202026/Sub/Ep12/ep12_tha.vtt"
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:7
 #EXT-X-MEDIA-SEQUENCE:0
